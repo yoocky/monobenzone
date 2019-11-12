@@ -1,10 +1,10 @@
 url: https://monobenzone.cn
-baseurl: /
+baseurl: ""
 
 # Site settings
-title: 莫诺苯宗
+title: monobenzone
 email: your-email@domain.com
-description: "莫诺苯宗，monobenzone."
+description: "莫诺苯宗，monobenzone。"
 
 
 # Team names, titles and social links
