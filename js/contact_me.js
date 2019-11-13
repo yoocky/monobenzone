@@ -2,7 +2,7 @@ $(function() {
     AV.init({
         appId: "PmpqD8uKDHcPsGpWm8MqrDwS-gzGzoHsz",
         appKey: "iXDr4R6MfPjLW49MoeIrlIhV",
-        serverURLs: "https://api.monobenzone.cn"
+        serverURLs: "https://pmpqd8uk.lc-cn-n1-shared.com"
     });
     var Comment = AV.Object.extend('Comment');
     // 构建对象
