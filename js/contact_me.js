@@ -6,7 +6,7 @@ $(function() {
     });
     var Comment = AV.Object.extend('Comment');
     // 构建对象
-    var Comment = new Todo();
+    var comment = new Comment();
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
         submitError: function($form, event, errors) {
@@ -19,12 +19,12 @@ $(function() {
             var email = $("input#email").val();
             var phone = $("input#phone").val();
             var message = $("textarea#message").val();
-            Comment.set('name', name);
-            Comment.set('email', email);
-            Comment.set('phone', phone);
-            Comment.set('message', message);
+            comment.set('name', name);
+            comment.set('email', email);
+            comment.set('phone', phone);
+            comment.set('message', message);
             // 将对象保存到云端
-            Comment.save().then(function (res) {
+            comment.save().then(function (res) {
                 // Success message
                 $('#success').html("<div class='alert alert-success'>");
                 $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
