@@ -6,7 +6,7 @@ date: 2019-11-15
 img: monoquin.png
 thumbnail: monoquin.png
 alt: image-alt
-id: 607150846801
+modal-id: 607150846801
 price: ¥310.00-340.00
 quality: 100g
 category: product

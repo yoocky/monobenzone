@@ -6,7 +6,7 @@ date: 2019-11-15
 img: monoquin-lotion.png
 thumbnail: monoquin-lotion.png
 alt: image-alt
-id: 607150846801
+modal-id: 607150846801
 price: ¥260.00-¥290.00
 quality: 110g
 category: product

@@ -6,7 +6,7 @@ date: 2019-11-15
 img: soaps.png
 thumbnail: soaps.png
 alt: image-alt
-id: 604025065902
+modal-id: 604025065902
 price: ¥260.00
 quality: 110g
 category: product

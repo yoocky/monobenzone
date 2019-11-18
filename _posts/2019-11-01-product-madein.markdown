@@ -6,7 +6,7 @@ date: 2019-11-15
 img: made-in.png
 thumbnail: made-in.png
 alt: image-alt
-id: 586171849773
+modal-id: 586171849773
 price: ¥260.00
 quality: 100g
 category: product
