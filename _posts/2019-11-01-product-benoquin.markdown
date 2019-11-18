@@ -2,7 +2,6 @@
 title: Benoquin
 subtitle: 印度20%莫诺苯宗乳膏
 layout: default
-modal-id: 6
 date: 2019-11-15
 img: benoquin.png
 thumbnail: benoquin.png

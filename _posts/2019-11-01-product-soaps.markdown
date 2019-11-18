@@ -2,7 +2,6 @@
 title: 20%莫诺苯宗香皂
 subtitle: 含有20%莫诺苯宗
 layout: default
-modal-id: 6
 date: 2019-11-15
 img: soaps.png
 thumbnail: soaps.png

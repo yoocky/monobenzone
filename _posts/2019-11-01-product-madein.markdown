@@ -2,7 +2,6 @@
 title: 60%莫诺苯宗[国产]
 subtitle: 国产莫诺苯宗脱色乳膏
 layout: default
-modal-id: 6
 date: 2019-11-15
 img: made-in.png
 thumbnail: made-in.png

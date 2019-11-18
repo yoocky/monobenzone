@@ -2,7 +2,6 @@
 title: monoquin
 subtitle: 印度莫诺苯宗20%、40%、60%、80%
 layout: default
-modal-id: 6
 date: 2019-11-15
 img: monoquin.png
 thumbnail: monoquin.png

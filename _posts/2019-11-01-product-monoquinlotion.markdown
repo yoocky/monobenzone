@@ -2,7 +2,6 @@
 title: monoquin乳液 [进口]
 subtitle: 莫诺苯宗脱色乳液
 layout: default
-modal-id: 6
 date: 2019-11-15
 img: monoquin-lotion.png
 thumbnail: monoquin-lotion.png
