@@ -2,7 +2,7 @@ url: https://monobenzone.cn
 baseurl: ""
 
 # Site settings
-title: monobenzone
+title: 莫诺苯宗 monobenzone
 email: your-email@domain.com
 description: "莫诺苯宗，monobenzone。"
 
@@ -45,9 +45,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: weixin
-    url: http://twitter.com/jekyllrb
+    id: weixin 18842313282
   - title: whatsapp
-    url: http://twitter.com/jekyllrb
+    id: whatsapp 18842313282
  
 # Postal address (add as many lines as necessary)
 address:
