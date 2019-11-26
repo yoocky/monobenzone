@@ -9,7 +9,13 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
-
+.weixin {
+    text-align: center;
+    position: fixed;
+    right: 20px;
+    bottom: 100px;
+    z-index: 999;
+}
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
